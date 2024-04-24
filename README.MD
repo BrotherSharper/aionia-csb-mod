@@ -6,7 +6,7 @@
 
 ## インストール方法
 ①以下のリンクを新しいモジュールとしてインストールしてください。
-* リンク： https://raw.githubusercontent.com/BrotherSharper/dnd5eja/master/module.json
+* リンク： https://raw.githubusercontent.com/BrotherSharper/aionia-csb-mod/main/module.json
 
 ②新しいワールドを作成し、システムとしてCustom System Builderを選択してください。まだインストールしていない場合は、システム一覧から検索すればインストール可能です。
 
