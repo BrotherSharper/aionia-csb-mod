@@ -1,0 +1,58 @@
+.armor_effect {
+    width: 240px;
+}
+
+.custom-system-actor-content{
+    background-color: black;
+    color: darkorange;
+}
+
+.header-fields input[type="text"] {
+    color: white;
+}
+
+.custom-system-component-contents input[type="text"] {
+    color: white;
+}
+
+.custom-system-label-button {
+    color: white;
+}
+
+#template {
+    color: white;
+}
+
+.skill_table .custom-system-label-label {
+    color: yellow;
+    font-weight: 700;
+}
+
+.custom-system-select select {
+    color: white;
+    /* background: lightyellow; */
+    border-radius: 30px;
+}
+
+.custom-system-sheet-actions input {
+    color:white;
+    background: black;
+}
+
+.custom-system-select option {
+    color: white;
+    background: black;
+}
+
+.custom-system-number-field-control {
+    background:black;
+    color: white;
+}
+
+.custom-system-number-input-span button {
+    background: black!important;
+}
+
+.custom-system-rollable {
+    font-weight: 700;
+}

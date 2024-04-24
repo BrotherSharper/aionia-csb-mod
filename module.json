@@ -1,0 +1,50 @@
+{
+  "id": "aionia-csb-mod",
+  "title": "慈悲なきアイオニア・CSB Mod",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "styles": ["css/style.css"],
+  "description": "慈悲なきアイオニアのキャラクターシートをCustom System Builderで実装したものです。導入用の資料を内部に入れてるので、ご確認ください。",
+  "authors": [
+    {
+      "name": "炯遊えいり",
+      "discord": "brothersharp",
+      "email": "akirakaeiri@gmail.com",
+      "url": "https://twitter.com/Brother_Sharp",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "aionia-documents",
+      "label": "アイオニア資料",
+      "path": "packs/aionia-documents",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    }
+  ]
+}
